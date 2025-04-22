@@ -8,6 +8,11 @@ We aim to identify the most profitable product categories and sub-categories to 
 
 Dataset Link- https://drive.google.com/file/d/1lkvQEUGFqQAkpvarHUZlKwKMGPMzXBqE/view?usp=sharing
 
+<h3>File Description</h3><br>
+
+Analytical_Insight.pptx : Presentation containing major insights derived from analysis.<br>
+Retail_Store_Customer_Analysis.pdf - Contains SQL query for data analysis.
+
 <h3>Key Insights-</h3>
 <ul>
 <li>Promote top-performing Masculine Suits & Blazers and boost underperforming Children’s clothing.</li> <br>
